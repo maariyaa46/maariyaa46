@@ -16,42 +16,28 @@ My projects range from real-time chat apps and expense trackers to e-commerce pl
 
 ---
 
-### 💡 Tech Stack & Tools
-
-#### 💻 Languages & Frameworks
+## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+  
+  <!-- Power Platform & Cloud -->
+  <img src="https://img.icons8.com/color/48/000000/power-apps.png" width="40" height="40" alt="Power Apps" />
+  <img src="https://img.icons8.com/color/48/000000/power-automate.png" width="40" height="40" alt="Power Automate" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="40" height="40" alt="Azure" />
 
-#### 🧩 Power Platform & Cloud
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20Apps-7015C9?style=for-the-badge&logo=microsoft-powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft-powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dataverse-48C9B0?style=for-the-badge&logo=dataverse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
-
-#### 🗄️ Databases & Reporting
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-#### 🛠 Tools & Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
 </p>
 
 ---
