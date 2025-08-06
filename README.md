@@ -26,8 +26,8 @@ My projects range from real-time chat apps and expense trackers to e-commerce pl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
 
   <!-- Power Platform -->
-  <img src="https://raw.githubusercontent.com/maariyaa46/assets/main/powerapps.png" width="40" height="40" alt="Power Apps" />
-  <img src="https://raw.githubusercontent.com/maariyaa46/assets/main/powerautomate.png" width="40" height="40" alt="Power Automate" />
+  <img src="https://raw.githubusercontent.com/maariyaa46/maariyaa46/main/img.icons8.png" width="40" height="40" alt="Power Apps" />
+  <img src="https://raw.githubusercontent.com/maariyaa46/maariyaa46/main/Microsoft_Power_Automate.svg.png" width="40" height="40" alt="Power Automate" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI" />
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="40" height="40" alt="Azure" />
 
@@ -48,7 +48,3 @@ My projects range from real-time chat apps and expense trackers to e-commerce pl
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariaqureshi29/)  
 📧 Email: mariyaqureshi2920@gmail.com
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maariyaa46&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maariyaa46&layout=compact&theme=radical)
