@@ -26,8 +26,8 @@ My projects range from real-time chat apps and expense trackers to e-commerce pl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
 
   <!-- Power Platform -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Power_Apps_Logo.png" width="40" height="40" alt="Power Apps" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Power_Automate_Logo.png" width="40" height="40" alt="Power Automate" />
+  <img src="https://raw.githubusercontent.com/maariyaa46/assets/main/powerapps.png" width="40" height="40" alt="Power Apps" />
+  <img src="https://raw.githubusercontent.com/maariyaa46/assets/main/powerautomate.png" width="40" height="40" alt="Power Automate" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI" />
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="40" height="40" alt="Azure" />
 
@@ -37,7 +37,7 @@ My projects range from real-time chat apps and expense trackers to e-commerce pl
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
+
 </p>
 
 
