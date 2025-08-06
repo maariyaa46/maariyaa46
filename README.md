@@ -3,7 +3,7 @@
 <p align="center">
   💻 Power Platform Developer | ASP.NET MVC | Cloud Solution Architect <br>
   🚀 Building low-code and full-stack business apps <br>
-  📍 Based in Pakistan | Open to relocate (Dubai/Doha)
+  📍 Based in Pakistan 
 </p>
 
 ---
@@ -25,9 +25,9 @@ My projects range from real-time chat apps and expense trackers to e-commerce pl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
   
-  <!-- Power Platform & Cloud -->
-  <img src="https://img.icons8.com/color/48/000000/power-apps.png" width="40" height="40" alt="Power Apps" />
-  <img src="https://img.icons8.com/color/48/000000/power-automate.png" width="40" height="40" alt="Power Automate" />
+  <!-- Power Platform & Cloud (Custom image links hosted on GitHub) -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/PowerApps/Icons/PNG/PowerApps-icon-2020.png" width="40" height="40" alt="Power Apps" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerPlatformIcons/main/PowerAutomate/Icons/PNG/PowerAutomate-icon-2020.png" width="40" height="40" alt="Power Automate" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI" />
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="40" height="40" alt="Azure" />
 
@@ -39,6 +39,7 @@ My projects range from real-time chat apps and expense trackers to e-commerce pl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
 </p>
+
 
 ---
 
